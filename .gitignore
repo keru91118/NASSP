@@ -171,3 +171,10 @@ XRSound/
 /zlib.ilk
 /zlib.lib
 /zlib.pdb
+##Extra stuff to ignore
+CMakeLists.txt
+LICENSE
+/*.dll
+/Cache/
+/Fonts/
+/*.ttf
