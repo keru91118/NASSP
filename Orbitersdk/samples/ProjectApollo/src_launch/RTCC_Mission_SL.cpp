@@ -222,6 +222,7 @@ bool RTCC::CalculationMTP_SL(int fcn, LPVOID& pad, char* upString, char* upDesc,
 
 		form->type = 1;
 		form->prelim = preliminary;
+		form->remarks, "Dual Bank";
 
 		if (preliminary == false)
 		{
